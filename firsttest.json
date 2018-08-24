@@ -3,9 +3,10 @@
       {"label": "A"},
       {"label": "B"},
       {"label": "C"},
-      {"label": "d"}
+      {"label": "d"},
+      {"label":"e"}
     ],
     "connections": [
-      {"from": "A", "to": "C"}
+      {"from": "A", "to": "C", "direction": "mutual"}
     ]
   }
