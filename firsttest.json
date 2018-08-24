@@ -3,7 +3,7 @@
       {"label": "A"},
       {"label": "B"},
       {"label": "C"},
-        {"label": "d"}
+      {"label": "d"}
     ],
     "connections": [
       {"from": "A", "to": "C"}
