@@ -1,9 +1,10 @@
 {
     "elements": [
       {"label": "A"},
-      {"label": "B"}
+      {"label": "B"},
+      {"label": "C"}
     ],
     "connections": [
-      {"from": "A", "to": "B"}
+      {"from": "A", "to": "C"}
     ]
   }
