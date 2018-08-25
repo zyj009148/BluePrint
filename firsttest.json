@@ -7,7 +7,7 @@
       {"label":"e"}
     ],
     "connections": [
-      {"from": "A", "to": "C", "direction": "directed"},
+      {"from": "A", "to": "C", "direction": "undirected"},
       {"from":"B", "to": "C", "direction":"undirected"}
     ]
   }
